@@ -37,13 +37,7 @@
   </a> 
 </p>
 
-## 📊 GitHub Stats:
 
-<p align="center">
-  <a href="https://github.com/asinigimhani/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=asinigimhani&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/asinigimhani/github-readme-stats">
